@@ -1,6 +1,6 @@
 # Gerenciamento-de-conjuntos
 O objetivo do trabalho é implementar um programa que gerencie uma 
-quantidade indeterminada de conjuntos de valores inteiros. O modelo consiste no uso 
+quantidade determinada de conjuntos de valores inteiros. O modelo consiste no uso 
 de uma matriz MxN, sendo M e N constantes.
 
 Cada linha da matriz é usada para representar um conjunto de valores, sendo que 
